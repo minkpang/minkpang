@@ -21,6 +21,8 @@
 <h4>📆 21.01.27 ~ ing</h4>
 
 - 백준 알고리즘 : https://www.acmicpc.net/
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pmink210">
+
 - 삼성 소프트웨어 아카데미 : https://swexpertacademy.com/main/main.do
 - 프로그래머스 : https://programmers.co.kr/
 
